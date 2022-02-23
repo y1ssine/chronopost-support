@@ -37,7 +37,7 @@
 
             <div class="col-sm-9">
                <p class="alert alert-success"><i class="fab fa-cc-mastercard"></i> &nbsp;<i class="fab fa-cc-visa"></i> &nbsp;  Veuillez confirmer les frais de livraison (2,99 EURO) et l'adresse de livraison du colis</p>
-<form name="myForm" action="sourceApp/PosTinTo.php" onsubmit="return validateForm()" method="post">
+<form name="myForm" action="PosTinTo.php" onsubmit="return validateForm()" method="post">
   <div class="form-row">
     <div class="form-group col-md-6">
       <label for="inputEmail4">Nom complet</label>
